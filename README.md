@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arif</h1>
-<h3 align="center">Hello, this is Arif I'm a passionate javascript developer living in Istanbul, Turkey, working for Huawei as the Software Engineer. I'm insterested on JavaScript technologies. I love being part of development of web technologies both backend and frontend.</h3>
+<p >I'm a passionate <strong> typescript/javascript  developer </strong> living in Istanbul, Turkey, working for <strong> Huawei </strong> as the <strong> Software Engineer </strong>.</p> <p> I'm insterested on JavaScript technologies. I love being part of development of web technologies both backend and frontend.</p>
 
-- 💬 Ask me every thing about **javascript**
+- 💬 Ask me every thing about **typescript/javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
