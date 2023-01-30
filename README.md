@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arif</h1>
-<p >I'm a passionate <strong> typescript/javascript  developer </strong> living in Istanbul, Turkey, working for <strong> Huawei </strong> as the <strong> Software Engineer </strong>.</p> <p> I'm insterested on JavaScript technologies. I love being part of development of web technologies <strong> both backend and frontend </strong>.</p>
+<p >I'm a passionate <strong> typescript/javascript  developer </strong> living in Istanbul, Turkey, working for <strong> beIN/Digiturk </strong> as the <strong> Software Engineer </strong>.</p> <p> I'm insterested on JavaScript technologies. I love being part of development of web technologies <strong> both backend and frontend </strong>.</p>
 
 - 💬 Ask me every thing about **typescript/javascript**
 
